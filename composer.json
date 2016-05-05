@@ -23,7 +23,7 @@
 		"doctrine/orm": "~2.4",
 		"kdyby/annotations": "~2.0@dev",
 		"kdyby/validator": "~0.2@dev",
-		"symfony/property-access": "~2.3"
+		"symfony/property-access": "~3.0"
 	},
 	"require-dev": {
 		"nette/application": "~2.2@dev",
